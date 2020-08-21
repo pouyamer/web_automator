@@ -147,6 +147,8 @@ with open(os.path.join(project_path, html_path), "w") as html:
 
 input("\nFiles were successfully created!\nPress ENTER to close the program")
 
+
+
 #TODO: add a confirmation at the end
 #TODO: add a "code <PATH>" via cmd
 #TODO: learn about os in python
