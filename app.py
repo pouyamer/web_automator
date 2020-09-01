@@ -1,7 +1,7 @@
 import io
 import os
 from pathlib import Path
-from input_getters import *
+from getters.input_getters import *
 
 
 
